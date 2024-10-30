@@ -1,0 +1,13 @@
+/* Fixes the with of the Clonable checkbox columns */
+th[class*="column-clone-"] {
+    width: 20px;
+    text-align: left !important;
+}
+
+#clonable_excluded_products .jaxtag {
+    display: none;
+}
+
+.checkbox-saved {
+    border: 1px solid #7fb112;
+}
